@@ -1,6 +1,6 @@
 import React from "react";
 import { FC } from "react";
-import { FaFacebook, FaTwitter, FaGithub, FaLinkedin, FaGoogle, FaYoutube, FaApple } from "react-icons/fa";
+import { FaFacebook, FaTwitter, FaGithub, FaLinkedin, } from "react-icons/fa";
 import Footer from "@/components/Footer";
 const Home: FC = () => {
 
